@@ -1,0 +1,103 @@
+Property_ID,Suburb,Property_Type,Bedrooms,Bathrooms,Parking_Spaces,Land_Size_sqm,Building_Size_sqm,Sale_Price_AUD,Sale_Date,Distance_to_CBD_km,Source_URL,Notes,Dwelling_Group,Has_Land_Size
+MD-001,Mount Druitt,House,5,3,5.0,543.0,,900000.0,2026-09-17,43,https://www.domain.com.au/2-durham-street-mount-druitt-nsw-2770-2020867083,,1,1
+MD-002,Mount Druitt,House,3,1,2.0,455.0,,925000.0,2026-09-17,43,https://www.domain.com.au/6-druitt-street-mount-druitt-nsw-2770-2020984193,,1,1
+MD-003,Mount Druitt,House,3,1,2.0,1012.0,,1530000.0,2026-09-14,43,https://www.domain.com.au/12-george-street-mount-druitt-nsw-2770-2021080938,,1,1
+MD-004,Mount Druitt,Villa,3,2,2.0,303.0,,890000.0,2026-09-04,43,https://www.domain.com.au/4-7-baynes-street-mount-druitt-nsw-2770-2020881104,,1,1
+MD-005,Mount Druitt,House,3,1,1.0,594.0,,942000.0,2026-09-02,43,https://www.domain.com.au/21-linden-street-mount-druitt-nsw-2770-2021107227,,1,1
+MD-006,Mount Druitt,House,4,2,2.0,576.5,,1218000.0,2026-08-24,43,https://www.domain.com.au/4-edith-street-mount-druitt-nsw-2770-2021011150,land size not published,1,1
+MD-007,Mount Druitt,House,3,1,3.0,1012.0,,1290000.0,2026-08-20,43,https://www.domain.com.au/52-paull-street-mount-druitt-nsw-2770-2020838189,,1,1
+MD-008,Mount Druitt,House,3,1,1.0,600.0,,945000.0,2026-08-18,43,https://www.domain.com.au/8-berry-street-mount-druitt-nsw-2770-2020911003,,1,1
+MD-009,Mount Druitt,House,4,2,1.0,637.0,,1000000.0,2026-08-17,43,https://www.domain.com.au/86-palmerston-road-mount-druitt-nsw-2770-2021027388,,1,1
+MD-010,Mount Druitt,House,6,3,10.0,1012.0,,1700000.0,2026-08-14,43,https://www.domain.com.au/31-callagher-street-mount-druitt-nsw-2770-2020834866,,1,1
+MD-011,Mount Druitt,House,4,3,1.0,1120.0,,1000000.0,2026-08-11,43,https://www.domain.com.au/20a-derwent-street-mount-druitt-nsw-2770-2021019727,,1,1
+MD-012,Mount Druitt,Villa,3,1,1.0,207.0,,685000.0,2026-07-31,43,https://www.domain.com.au/2-17-o-brien-street-mount-druitt-nsw-2770-2021000022,,1,1
+MD-013,Mount Druitt,House,3,1,1.0,264.0,,870000.0,2026-07-31,43,https://www.domain.com.au/5-2-4-meacher-street-mount-druitt-nsw-2770-2020941696,,1,1
+MD-014,Mount Druitt,House,5,2,2.0,576.5,,1105000.0,2026-07-23,43,https://www.domain.com.au/2-2a-ophir-grove-mount-druitt-nsw-2770-2020781250,land size not published,1,1
+MD-015,Mount Druitt,Villa,3,1,1.0,576.5,,660000.0,2026-07-09,43,https://www.domain.com.au/14-24-methven-street-mount-druitt-nsw-2770-2020967860,land size not published,1,1
+MD-016,Mount Druitt,House,2,1,1.0,104.0,,440000.0,2026-06-25,43,https://www.domain.com.au/44-2-hythe-street-mount-druitt-nsw-2770-2021002772,,1,1
+MD-017,Mount Druitt,Semi-detached,3,1,1.0,325.0,,825000.0,2026-06-20,43,https://www.domain.com.au/13a-notley-street-mount-druitt-nsw-2770-2020905061,,1,1
+MD-018,Mount Druitt,Villa,2,1,1.0,576.5,,465000.0,2026-06-19,43,https://www.domain.com.au/6-49-methven-street-mount-druitt-nsw-2770-2020797524,land size not published,1,1
+MD-019,Mount Druitt,House,3,1,1.0,576.5,,930000.0,2026-05-30,43,https://www.domain.com.au/31-calala-street-mount-druitt-nsw-2770-2020821977,land size not published; listing description says fully renovated,1,1
+MD-020,Mount Druitt,House,4,1,1.0,1012.0,,1530000.0,2026-05-30,43,https://www.domain.com.au/32-tidswell-street-mount-druitt-nsw-2770-2020844963,,1,1
+MD-021,Mount Druitt,Villa,3,1,1.0,576.5,,630000.0,2026-05-29,43,https://www.domain.com.au/3-28-methven-street-mount-druitt-nsw-2770-2020685446,land size not published,1,1
+MD-022,Mount Druitt,House,4,3,2.0,576.5,,1125000.0,2026-05-26,43,https://www.domain.com.au/28c-tulloona-street-mount-druitt-nsw-2770-2020689927,land size not published,1,1
+MD-023,Mount Druitt,House,3,1,1.0,1012.0,,1485000.0,2026-05-26,43,https://www.domain.com.au/60-callagher-street-mount-druitt-nsw-2770-2020934982,,1,1
+MD-024,Mount Druitt,House,7,3,3.0,1012.0,,1430000.0,2026-05-20,43,https://www.domain.com.au/33-33b-tidswell-street-mount-druitt-nsw-2770-2020768863,,1,1
+MD-025,Mount Druitt,House,3,2,2.0,449.0,,1060000.0,2026-05-18,43,https://www.domain.com.au/33-derwent-street-mount-druitt-nsw-2770-2020696965,,1,1
+MD-026,Mount Druitt,House,4,2,7.0,763.0,,1250000.0,2026-05-07,43,https://www.domain.com.au/10-francis-street-mount-druitt-nsw-2770-2020794611,,1,1
+CB-001,Campbelltown,House,3,1,1.0,701.9,,951000.0,2026-08-29,53,https://www.domain.com.au/133-dumaresq-street-campbelltown-nsw-2560-2021067001,,1,1
+CB-002,Campbelltown,House,4,2,2.0,669.0,,970500.0,2026-08-28,53,https://www.domain.com.au/61-macquarie-avenue-campbelltown-nsw-2560-2021045340,,1,1
+CB-003,Campbelltown,Semi-detached,4,2,1.0,612.5,,1030000.0,2026-08-28,53,https://www.domain.com.au/5b-eddington-road-campbelltown-nsw-2560-2021061730,land size not published,1,1
+CB-004,Campbelltown,House,3,1,1.0,612.5,,620000.0,2026-08-17,53,https://www.domain.com.au/5-32-broughton-st-campbelltown-nsw-2560-2021034182,land size not published,1,1
+CB-005,Campbelltown,Terrace,4,3,2.0,277.0,,1150000.0,2026-08-14,53,https://www.domain.com.au/42-hidcote-road-campbelltown-nsw-2560-2021017085,,1,1
+CB-006,Campbelltown,House,2,2,1.0,612.5,,735000.0,2026-08-12,53,https://www.domain.com.au/14b-ehrlich-street-campbelltown-nsw-2560-2021050852,land size not published,1,1
+CB-007,Campbelltown,House,4,3,1.0,670.0,,980000.0,2026-08-11,53,https://www.domain.com.au/16-austin-avenue-campbelltown-nsw-2560-2020871506,,1,1
+CB-008,Campbelltown,House,3,1,1.0,645.0,,950000.0,2026-08-10,53,https://www.domain.com.au/12-valinda-crescent-campbelltown-nsw-2560-2020786434,,1,1
+CB-009,Campbelltown,House,5,2,2.0,734.0,,1185000.0,2026-07-27,53,https://www.domain.com.au/46-and-46a-farnsworth-avenue-campbelltown-nsw-2560-2020838349,,1,1
+CB-010,Campbelltown,Semi-detached,3,2,1.0,177.1,,890000.0,2026-07-24,53,https://www.domain.com.au/88-goldsmith-avenue-campbelltown-nsw-2560-2020876951,,1,1
+CB-011,Campbelltown,House,4,1,1.0,554.0,,930000.0,2026-07-22,53,https://www.domain.com.au/40-waminda-avenue-campbelltown-nsw-2560-2020977148,,1,1
+CB-012,Campbelltown,House,2,1,1.0,758.0,,820000.0,2026-07-21,53,https://www.domain.com.au/31-grandview-drive-campbelltown-nsw-2560-2020,parking not published,1,1
+CB-013,Campbelltown,House,6,2,1.0,639.0,,1160555.0,2026-07-14,53,https://www.domain.com.au/198-broughton-street-campbelltown-nsw-2560-2020,listing ID not exposed in captured page,1,1
+CB-014,Campbelltown,House,3,1,2.0,619.0,,950000.0,2026-07-13,53,https://www.domain.com.au/1-richard-avenue-campbelltown-nsw-2560-2020903171,,1,1
+CB-015,Campbelltown,House,7,4,2.0,510.0,,1750000.0,2026-07-08,53,https://www.domain.com.au/28-28a-westview-street-campbelltown-nsw-2560-2020982388,,1,1
+CB-016,Campbelltown,House,3,1,2.0,556.0,,810000.0,2026-07-04,53,https://www.domain.com.au/17-phillip-street-campbelltown-nsw-2560-2020867462,,1,1
+CB-017,Campbelltown,House,3,1,2.0,961.0,,990000.0,2026-07-02,53,https://www.domain.com.au/5-lachlan-place-campbelltown-nsw-2560-2020921215,,1,1
+CB-018,Campbelltown,House,3,2,2.0,612.5,,965000.0,2026-06-26,53,https://www.domain.com.au/48-gilchrist-drive-campbelltown-nsw-2560-2020883620,land size not published,1,1
+CB-019,Campbelltown,House,4,2,4.0,556.0,,1020000.0,2026-06-19,53,https://www.domain.com.au/11-manning-street-campbelltown-nsw-2560-2020767367,,1,1
+CB-020,Campbelltown,House,3,1,1.0,551.0,,885000.0,2026-06-19,53,https://www.domain.com.au/9-yennora-street-campbelltown-nsw-2560-2020818813,,1,1
+CB-021,Campbelltown,House,4,2,2.0,415.0,,1170000.0,2026-06-16,53,https://www.domain.com.au/24-poulton-terrace-campbelltown-nsw-2560-2020902272,,1,1
+CB-022,Campbelltown,House,3,1,1.0,567.0,,915000.0,2026-06-16,53,https://www.domain.com.au/5-dan-street-campbelltown-nsw-2560-2020865605,,1,1
+CB-023,Campbelltown,House,3,1,1.0,815.0,,1220000.0,2026-06-13,53,https://www.domain.com.au/23-allman-street-campbelltown-nsw-2560-2020848866,,1,1
+CB-024,Campbelltown,House,4,2,2.0,621.0,,920000.0,2026-06-12,53,https://www.domain.com.au/47-grandview-drive-campbelltown-nsw-2560-2020850534,,1,1
+CB-025,Campbelltown,House,5,3,2.0,727.0,,980000.0,2026-06-10,53,https://www.domain.com.au/1-high-street-campbelltown-nsw-2560-2020820580,,1,1
+CB-026,Campbelltown,House,4,4,1.0,612.5,,1120000.0,2026-06-10,53,https://www.domain.com.au/134a-university-drive-campbelltown-nsw-2560-2020913397,land size not published,1,1
+CB-027,Campbelltown,Villa,2,1,1.0,612.5,,690000.0,2026-06-09,53,https://www.domain.com.au/3-11-barwon-place-campbelltown-nsw-2560-2020848396,land size not published,1,1
+CB-028,Campbelltown,House,2,1,2.0,606.0,,870000.0,2026-06-09,53,https://www.domain.com.au/132-waminda-avenue-campbelltown-nsw-2560-2020848320,,1,1
+CB-029,Campbelltown,House,3,2,2.0,551.0,,880000.0,2026-06-09,53,https://www.domain.com.au/12-kendall-street-campbelltown-nsw-2560-2020903619,,1,1
+CB-030,Campbelltown,House,4,2,1.0,486.0,,1195000.0,2026-06-05,53,https://www.domain.com.au/32-oxley-street-campbelltown-nsw-2560-2020777730,,1,1
+PT-001,Parramatta,Apartment / Unit / Flat,2,2,1.0,97.0,,640000.0,2026-09-16,24,https://www.domain.com.au/2315-45-macquarie-street-parramatta-nsw-2150-2021012386,,0,1
+PT-002,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,570000.0,2026-09-16,24,https://www.domain.com.au/1-3-stewart-street-parramatta-nsw-2150-2020893497,land size not published,0,1
+PT-003,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,600000.0,2026-09-16,24,https://www.domain.com.au/641-180-george-street-parramatta-nsw-2150-2021041505,parking and land size not published,0,1
+PT-004,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,575000.0,2026-09-14,24,https://www.domain.com.au/610-36-46-cowper-street-parramatta-nsw-2150-2021038919,land size not published,0,1
+PT-005,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,580000.0,2026-09-04,24,https://www.domain.com.au/89-459-463-church-street-parramatta-nsw-2150-2020441602,land size not published,0,1
+PT-006,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,660000.0,2026-09-09,24,https://www.domain.com.au/505-23-hassall-street-parramatta-nsw-2150-2020750030,land size not published,0,1
+PT-007,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,520000.0,2026-09-11,24,https://www.domain.com.au/33-68-great-western-highway-parramatta-nsw-2150-2020943564,land size not published,0,1
+PT-008,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,425000.0,2026-09-04,24,https://www.domain.com.au/8-64-66-great-western-highway-parramatta-nsw-2150-2021071261,land size not published,0,1
+PT-009,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,705000.0,2026-09-04,24,https://www.domain.com.au/1702-45-macquarie-street-parramatta-nsw-2150-2020659838,land size not published,0,1
+PT-010,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,588000.0,2026-08-04,24,https://www.domain.com.au/2-15-19-early-street-parramatta-nsw-2150-2021000174,land size not published,0,1
+PT-011,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,680000.0,2026-08-04,24,https://www.domain.com.au/404-23-hassall-street-parramatta-nsw-2150-2020835264,land size not published,0,1
+PT-012,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,740000.0,2026-08-02,24,https://www.domain.com.au/3001-11-hassall-st-parramatta-nsw-2150-2020891660,land size not published,0,1
+PT-013,Parramatta,Apartment / Unit / Flat,3,2,2.0,0.0,,800000.0,2026-07-23,24,https://www.domain.com.au/27-9-11-cowper-street-parramatta-nsw-2150-2020985734,land size not published,0,1
+MD-027,Mount Druitt,Semi-Detached,4,2,2.0,259.0,,965000.0,2026-02-18,43,https://www.domain.com.au/10b-linden-street-mount-druitt-nsw-2770-2020599833,sold listing verified; unavailable fields left blank,0,1
+MD-028,Mount Druitt,House,3,1,1.0,556.4,,1032500.0,2026-02-15,43,https://www.domain.com.au/1-karen-place-mount-druitt-nsw-2770-2020543782,sold listing verified; unavailable fields left blank,1,1
+MD-029,Mount Druitt,House,3,2,2.0,313.0,,960000.0,2026-02-10,43,https://www.domain.com.au/2-47-morehead-avenue-mount-druitt-nsw-2770-2020554054,sold listing verified; unavailable fields left blank,1,1
+MD-030,Mount Druitt,House,3,1,6.0,1012.0,,1510000.0,2026-02-01,43,https://www.domain.com.au/84-coates-street-mount-druitt-nsw-2770-2020509517,sold listing verified; unavailable fields left blank,1,1
+MD-031,Mount Druitt,House,3,2,2.0,325.0,,1325000.0,2026-02-09,43,https://www.domain.com.au/52-morehead-avenue-mount-druitt-nsw-2770-2020442615,sold listing verified; unavailable fields left blank,1,1
+MD-032,Mount Druitt,House,4,2,2.0,576.5,,1010000.0,2026-01-31,43,https://www.domain.com.au/19-raynor-street-mount-druitt-nsw-2770-2020438519,sold listing verified; unavailable fields left blank,1,1
+MD-033,Mount Druitt,House,5,2,6.0,556.0,,1410000.0,2026-01-31,43,https://www.domain.com.au/34a-34c-coates-street-mount-druitt-nsw-2770-2020490851,sold listing verified; unavailable fields left blank,1,1
+MD-034,Mount Druitt,House,3,1,2.0,559.0,,1050000.0,2026-01-22,43,https://www.domain.com.au/19-george-street-mount-druitt-nsw-2770-2020521451,sold listing verified; unavailable fields left blank,1,1
+MD-035,Mount Druitt,House,4,2,1.0,576.5,,1040000.0,2025-12-09,43,https://www.domain.com.au/18-mannikin-place-mount-druitt-nsw-2770-2020369645,sold listing verified; unavailable fields left blank,1,1
+MD-036,Mount Druitt,House,4,2,4.0,653.0,,1155000.0,2025-12-04,43,https://www.domain.com.au/23c-janet-street-mount-druitt-nsw-2770-2020375707,sold listing verified; unavailable fields left blank,1,1
+PT-019,Parramatta,Apartment / Unit / Flat,2,2,1.0,108.0,,570000.0,2026-09-03,24,https://www.domain.com.au/10-4-peace-lane-parramatta-nsw-2150-2020795902,sold listing verified; unavailable fields left blank,0,1
+PT-020,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,490000.0,2026-09-01,24,https://www.domain.com.au/9-178-george-street-parramatta-nsw-2150-2021070163,sold listing verified; unavailable fields left blank,0,1
+PT-021,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,569000.0,2026-08-31,24,https://www.domain.com.au/3-23-good-street-parramatta-nsw-2150-2020835270,sold listing verified; unavailable fields left blank,0,1
+PT-022,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,650000.0,2026-08-31,24,https://www.domain.com.au/17-10-12-thomas-street-parramatta-nsw-2150-2021082491,sold listing verified; unavailable fields left blank,0,1
+PT-023,Parramatta,Apartment / Unit / Flat,2,2,1.0,108.0,,540000.0,2026-08-30,24,https://www.domain.com.au/401-6-river-road-west-parramatta-nsw-2150-2020953991,sold listing verified; unavailable fields left blank,0,1
+PT-024,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,566000.0,2026-08-28,24,https://www.domain.com.au/1201-45-macquarie-street-parramatta-nsw-2150-2021115983,sold listing verified; unavailable fields left blank,0,1
+PT-025,Parramatta,Apartment / Unit / Flat,2,1,1.0,0.0,,680000.0,2026-08-28,24,https://www.domain.com.au/5-30-32-queens-avenue-parramatta-nsw-2150-2020960907,sold listing verified; unavailable fields left blank,0,1
+PT-026,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,590000.0,2026-08-28,24,https://www.domain.com.au/11-32-hassall-street-parramatta-nsw-2150-2020925402,sold listing verified; unavailable fields left blank,0,1
+PT-027,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,552000.0,2026-08-27,24,https://www.domain.com.au/c26-88-98-marsden-street-parramatta-nsw-2150-2020939108,sold listing verified; unavailable fields left blank,0,1
+PT-028,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,410000.0,2026-08-24,24,https://www.domain.com.au/805-21-hassall-street-parramatta-nsw-2150-2020574624,sold listing verified; unavailable fields left blank,0,1
+PT-029,Parramatta,Apartment / Unit / Flat,2,1,1.0,89.0,,653000.0,2026-08-21,24,https://www.domain.com.au/108-125-129-arthur-street-parramatta-nsw-2150-2021092190,sold listing verified; unavailable fields left blank,0,1
+PT-030,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,600000.0,2026-08-21,24,https://www.domain.com.au/219-88-church-street-parramatta-nsw-2150-2020908510,sold listing verified; unavailable fields left blank,0,1
+PT-031,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,800000.0,2026-08-21,24,https://www.domain.com.au/1502-88-church-street-parramatta-nsw-2150-2020980839,sold listing verified; unavailable fields left blank,0,1
+PT-014,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,153.0,623000.0,2026-05-06,24,https://www.domain.com.au/903-6-10-charles-street-parramatta-nsw-2150-2020668708,Verified sold listing,0,1
+PT-015,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,132.0,641000.0,2026-08-21,24,https://www.domain.com.au/41-3-good-street-parramatta-nsw-2150-2020959193,Verified sold listing,0,1
+PT-016,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,152.0,660000.0,2026-05-04,24,https://www.domain.com.au/27-3-good-street-parramatta-nsw-2150-2020632968,Verified sold listing,0,1
+PT-017,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,,683000.0,2026-04-29,24,https://www.domain.com.au/101-42-macarthur-street-parramatta-nsw-2150-2020797307,Verified sold listing,0,1
+PT-018,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,398000.0,2026-05-13,24,https://www.domain.com.au/23-64-66-great-western-highway-parramatta-nsw-2150-2020841825,Verified sold listing; land size not published/verified.,0,1
+PT-032,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,399000.0,2026-01-13,24,https://www.domain.com.au/61-64-66-great-western-highway-parramatta-nsw-2150-2020483318,Verified sold listing; land size not published/verified.,0,1
+PT-033,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,,400000.0,2025-12-05,24,https://www.domain.com.au/13b-15-campbell-street-parramatta-nsw-2150-2020440897,Verified sold listing; land size not published/verified.,0,1
+PT-034,Parramatta,Apartment / Unit / Flat,1,1,1.0,0.0,74.0,405000.0,2026-08-25,24,https://www.domain.com.au/16l-15-campbell-street-parramatta-nsw-2150-2021047374,Verified sold listing,0,1
+PT-035,Parramatta,Apartment / Unit / Flat,2,2,1.0,0.0,145.0,657000.0,2026-08-11,24,https://www.domain.com.au/3-11-o-reilly-street-parramatta-nsw-2150-2020903097,Verified sold listing,0,1
+PT-036,Parramatta,Apartment / Unit / Flat,1,1,1.0,101.0,81.0,400000.0,2026-08-07,24,https://www.realestate.com.au/sold/property-unit-nsw-parramatta-151414292,Verified sold listing,0,1
