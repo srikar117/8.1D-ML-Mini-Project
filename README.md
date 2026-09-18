@@ -4,9 +4,9 @@ SIT720 8.1 Distinction Task. Predicts Sydney house/unit sale prices for Mount Dr
 
 ## Structure
 - `data/` — cleaned dataset (`Sydney_Housing_Data.csv`) and modelling-ready version (`model_ready.csv`)
-- `notebook/` — full analysis notebook (EDA, feature engineering, modelling, evaluation)
-- `app/` — `app.py` (Streamlit)
-- `report/` — final PDF report
+- `8.1D.ipynb/` — full analysis notebook (EDA, feature engineering, modelling, evaluation)
+-  `app.py` - Streamlit
+- `report/` — PDF report
 
 ## Setup
 ```bash
